@@ -11,3 +11,6 @@ To remove ignored and non-ignored files, run git clean -f -x or git clean -fx
 
 Beautiful article on medium claps function
 https://medium.com/tomyum/our-redesign-of-mediums-claps-and-why-they-may-not-have-chosen-to-do-it-this-way-edc9ff6b586e
+
+Pymongo Documentation
+http://api.mongodb.com/python/current/tutorial.html
